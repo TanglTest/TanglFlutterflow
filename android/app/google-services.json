@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "727288451319",
+    "project_id": "tangltest",
+    "storage_bucket": "tangltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727288451319:android:b30956661f945721c143f2",
+        "android_client_info": {
+          "package_name": "tangl.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727288451319-81mgf0an1a21lqn4re6hmg6e66jpvitt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tangl.chat.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "727288451319-liodpq97v1ursrs6o5o9tjn5b00suril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCueqmFv3mooqTBsoJNxzwffK2G4xC96Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727288451319-liodpq97v1ursrs6o5o9tjn5b00suril.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727288451319-4geb6id80kpkotnrvjsgs9mrsblk1uk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tangl.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
